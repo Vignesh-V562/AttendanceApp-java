@@ -1,0 +1,4 @@
+Name,ID,Mobile,DOB,Email,Department,ClassName,Role,UserName,Password,age
+Alice,101,6374435371,05-06-1985,alice@gmail.com,CS,None,Admin,alice01,pass123,45
+bob,102,7339676308,21-09-2005,bob@gmail.com,AIDS,AiDs-B,Student,bob02,pass456,19
+Charlie,103,8608714447,11-12-1999,charlie@gmail.com,IOT,None,Teacher,char03,pass789,36
